@@ -1,0 +1,58 @@
+.example-card {
+    max-width: 650px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+   border: 2px solid grey;
+
+  }
+
+
+  .example {
+    max-width: 600px;
+  }
+
+
+  .font{
+font-size: 13px
+  }
+
+
+  
+  .font_email{
+    font-size: 13px
+      }
+
+
+  .image {
+    background-image: url('https://via.placeholder.com/150');
+    background-size: cover;
+  }
+
+
+  .example-headers-align .mat-expansion-panel-header-title,
+.example-headers-align .mat-expansion-panel-header-description {
+  flex-basis: 0;
+}
+
+.example-headers-align .mat-expansion-panel-header-description {
+  justify-content: space-between;
+  align-items: center;
+}
+
+  .test :hover  {
+    opacity: 0.5;
+
+  }
+
+
+  .example-form-field {
+    width: 200px;
+  }
+
+  
+  .example-header-image {
+    background-image: url('https://via.placeholder.com/150');
+    background-size: cover;
+
+  }
